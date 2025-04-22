@@ -8,7 +8,7 @@ Features:
   Optimized file I/O and memory-efficient data storage
   Robust string processing to handle special characters and formatting
   
-Technologies & Concepts
+Technologies & Concepts: 
   C++ (Modern C++)
   Custom data structures for performance
   Hash tables and string hashing
