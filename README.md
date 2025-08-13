@@ -9,7 +9,7 @@ Features:
   Robust string processing to handle special characters and formatting
   
 Technologies & Concepts: 
-  C++ (Modern C++)
+  C++
   Custom data structures for performance
   Hash tables and string hashing
   File system traversal and management
